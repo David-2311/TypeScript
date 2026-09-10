@@ -1,0 +1,51 @@
+text,intent
+hola,saludo
+buenos dias,saludo
+buenas tardes,saludo
+que tal,saludo
+saludos,saludo
+hey,saludo
+buenas noches,saludo
+que onda,saludo
+hi,saludo
+hello,saludo
+como instalo el programa,instalacion
+necesito ayuda con la instalacion,instalacion
+no se como instalar,instalacion
+paso a paso de instalacion,instalacion
+guia de instalacion,instalacion
+como configuro el software,instalacion
+instalacion del sistema,instalacion
+como begin con la instalacion,instalacion
+quiero instalar la aplicacion,instalacion
+problema con la instalacion,instalacion
+tengo un error,error
+el programa no funciona,error
+aparece un mensaje de error,error
+se cuelga el sistema,error
+no abre la aplicacion,error
+error inesperado,error
+fallo en el sistema,error
+el software esta fallando,error
+no responde,error
+pantalla azul de muerte,error
+como actualizo el programa,actualizacion
+necesito actualizar,actualizacion
+hay nuevas versiones,actualizacion
+donde descargo la actualizacion,actualizacion
+comoConfigurer updates,actualizacion
+version nueva disponible,actualizacion
+actualizar el sistema,actualizacion
+download latest version,actualizacion
+upgrade del software,actualizacion
+patch disponible,actualizacion
+adios,despedida
+hasta luego,despedida
+nos vemos,despedida
+chao,despedida
+bye,despedida
+me voy,despedida
+hasta pronto,despedida
+nos leemos,despedida
+chau,despedida
+me despido,despedida

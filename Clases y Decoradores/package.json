@@ -1,0 +1,23 @@
+{
+  "name": "clases-y-decoradores",
+  "version": "1.0.0",
+  "description": "Ejercicios prácticos de Clases y Decoradores en TypeScript - SENA",
+  "scripts": {
+    "ejercicio01": "ts-node src/ejercicio01.ts",
+    "ejercicio02": "ts-node src/ejercicio02.ts",
+    "ejercicio03": "ts-node src/ejercicio03.ts",
+    "ejercicio04": "ts-node src/ejercicio04.ts",
+    "ejercicio05": "ts-node src/ejercicio05.ts",
+    "ejercicio06": "ts-node src/ejercicio06.ts",
+    "ejercicio07": "ts-node src/ejercicio07.ts",
+    "ejercicio08": "ts-node src/ejercicio08.ts",
+    "ejercicio09": "ts-node src/ejercicio09.ts",
+    "ejercicio10": "ts-node src/ejercicio10.ts",
+    "ejercicio11": "ts-node src/ejercicio11.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.10.0"
+  }
+}

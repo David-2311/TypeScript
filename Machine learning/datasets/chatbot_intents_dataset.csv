@@ -1,0 +1,16 @@
+text,intent
+hola,saludo
+buenos dias,saludo
+buenas tardes,saludo
+adios,despedida
+hasta luego,despedida
+nos vemos,despedida
+que hora es,pregunta
+que dia es hoy,pregunta
+puedes ayudarme,soporte
+necesito soporte,soporte
+gracias,agradecimiento
+muchas gracias,agradecimiento
+como estas,saludo
+que puedes hacer,informacion
+ayuda,soporte
